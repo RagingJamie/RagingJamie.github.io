@@ -1,3 +1,8 @@
 navbar a {
   font-size: 17px;
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
 }
