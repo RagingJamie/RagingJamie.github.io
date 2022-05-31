@@ -4,6 +4,8 @@ body {
     background-color: black;
     color: white;
     text-align: center;
+    max-width: 1750px;
+    margin: auto;
 }
 
 .light-mode {
